@@ -1,27 +1,27 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=Windows-1251" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<link href="/favicon.ico" rel="icon" type="image/x-icon" />
 	<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-	<title> Ошибка авторизации </title>
+	<title> РћС€РёР±РєР° Р°РІС‚РѕСЂРёР·Р°С†РёРё </title>
 </head>
 <body>
 
-<p align='center'><B>Логин и/или пароль недействительны!</B></p> 
+<p align='center'><B>Р›РѕРіРёРЅ Рё/РёР»Рё РїР°СЂРѕР»СЊ РЅРµРґРµР№СЃС‚РІРёС‚РµР»СЊРЅС‹!</B></p> 
 
 <form action="demand.php" method="post">
-       <p align='center'>Для получения прав доступа отправьте заявку</p>   	
+       <p align='center'>Р”Р»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РїСЂР°РІ РґРѕСЃС‚СѓРїР° РѕС‚РїСЂР°РІСЊС‚Рµ Р·Р°СЏРІРєСѓ</p>   	
         <table>
       <tr>
 	<table align="center">
-            <td>Фамилия<font color=red>*</font></td>
+            <td>Р¤Р°РјРёР»РёСЏ<font color=red>*</font></td>
             	<td><input type="text" name="fam" /></td>
             </tr><tr>
-            <td>Имя<font color=red>*</font></td>
+            <td>РРјСЏ<font color=red>*</font></td>
             	<td><input type="text" name="name" /></td>           
             </tr><tr>
-            <td>Отчество</td>
+            <td>РћС‚С‡РµСЃС‚РІРѕ</td>
             	<td><input type="text" name="pname" /></td>
             </tr><tr>
             <td>E-mail<font color=red>*</font></td>
@@ -29,7 +29,7 @@
  	      </tr><tr>
  	      </tr><tr>
             <td></td>
-            <td align='center'><input type="submit" value="Отправить"/></td> 
+            <td align='center'><input type="submit" value="РћС‚РїСЂР°РІРёС‚СЊ"/></td> 
 		</tr><tr>
 	</table>
 </form>
